@@ -1,0 +1,1 @@
+# This repo is used to record my notes and codes when studying programming language Rust.
